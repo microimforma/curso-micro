@@ -1,0 +1,5 @@
+-a group #añadir usuario
+gpasswd -M user1,user2,user3 group #varios usuarios
+-d group #eliminar usuario
+-A group #lista capos
+-M group #lista de miembros
