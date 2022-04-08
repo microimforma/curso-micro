@@ -1,3 +1,3 @@
 sudo -i #autentificación
 apt-get install --install-recommends epoptes
-gpasswd -a imforma epoptes
+gpasswd -a imforma epoptes #añadir usuario
